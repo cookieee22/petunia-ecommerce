@@ -1,4 +1,3 @@
-# petunia-ecommerce
 # Petunia E-Commerce Project
 
 This is a PHP-based e-commerce web application called **Petunia Ecommerce Site**.  
